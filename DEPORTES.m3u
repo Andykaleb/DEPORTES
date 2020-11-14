@@ -1,0 +1,32 @@
+#EXTM3U
+ 
+#EXTINF:0,Claro_Sports
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:-1,DIRECT TV
+https://live68.vkuserlive.com/639912/live/0xhZ4rlAf6VQnzQE/playlist.m3u8
+#EXTINF:-1,DEPORTES DIRECT TV
+http://live.latino-webtv.com/live_3.m3u8?
+#EXTINF:-1 tvg-logo="http://puu.sh/nvXth/4031f19cf5.png" group-title="DEPORTES", DirectTV Sports
+http://madevalchile.com/latino2bsdlcj5454-106.m3u8
+#EXTINF:-1 tvg-logo="http://68.media.tumblr.com/d5c50cba2aea4da8331dc2d17e0f0dde/tumblr_mxuyedLhQM1rdkn3to1_r1_500.png" group-title="DEPORTES",Gol Tv
+https://cdn.opencable.es/hls/live/goltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTES", UFC NETWORK
+http://209.126.116.177:2086/UFCNET/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png"  group-title="DEPORTES", CLARO SPORTS
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn3.computerhoy.com/sites/computerhoy.com/files/styles/fullcontent/public/novedades/gol-television-sintonizar-tdt.jpg?itok=5LT8Q_pW" group-title="Deportes",SP: Gol TV
+http://iptv.cs2017.info:9090/live/casiy/uyt/158.m3u8
+#EXTINF:-1 tvg-id="DigiSport.sk" tvg-name="DIRECTV SPORTS" tvg-logo="http://static.iptv-epg.com/sk/DigiSport.sk.png" group-title="DEPORTES",DIRECTV SPORT
+http://158.69.52.43:8000/live/isidro/Zoshyz8Xe6/1017.ts
+#EXTINF:-1 tvg-id="ecuador" tvg-name="DIRECTV SPORTS 2" tvg-logo="http://static.iptv-epg.com/sk/DigiSport.sk.png" group-title="EVENTOS",DIRECTV SPORTS 2
+http://158.69.52.43:8000/live/isidro/Zoshyz8Xe6/2863.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="http://i68.tinypic.com/11ug8pk.png" group-title="DEPORTES",Directv Sports
+http://104.245.96.214:8000/live/bilminton/men/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports EC (solo eventos)" tvg-logo="" group-title="DEPORTES",DIRECTV Sports EC (solo eventos)
+http://104.245.96.214:8000/live/bilminton/men/874.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports EC op2 (solo eventos)" tvg-logo="" group-title="DEPORTES",DIRECTV Sports EC op2 (solo eventos)
+http://104.245.96.214:8000/live/bilminton/men/962.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT Sports" tvg-logo="" group-title="ECUADOR",EC: CNT Sports
+http://104.245.96.214:8000/live/bilminton/men/989.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT Sports op2" tvg-logo="" group-title="ECUADOR",EC: CNT Sports op2
+http://104.245.96.214:8000/live/bilminton/men/350.ts
